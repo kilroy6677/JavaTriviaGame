@@ -1,0 +1,128 @@
+#21 question: What year did Volkswagen first use the ball joint front end on the beatle?
+#21 answer right: 1967
+#21 answer wrong1: 1966
+#21 answer wrong2: 1968
+#21 answer wrong3: 1956
+
+#22 question: Who is known as the father of the volkswagen?
+#22 answer right: Dr. Porsche
+#22 answer wrong1: Magellan
+#22 answer wrong2: Harry Truman
+#22 answer wrong3: Hitler
+
+#23 question: What state has the longest coast line?
+#23 answer right: Alaska
+#23 answer wrong1: Florida
+#23 answer wrong2: California
+#23 answer wrong3: Maine
+
+#24 question: What does volkswagen mean in german?
+#24 answer right: Peoples car
+#24 answer wrong1: easy to drive
+#24 answer wrong2: small car with 4 wheels
+#24 answer wrong3: moms car
+
+#25 question: Who was the first president?	
+#25 answer right: Washington
+#25 answer wrong1: madison
+#25 answer wrong2: clinton
+#25 answer wrong3: jesse James
+
+#26 question: What is the capitol of Washington State?
+#26 answer right: Olympia
+#26 answer wrong1: Seattle
+#26 answer wrong2: Portland
+#26 answer wrong3: Spokane
+
+#27 question: Who is the leader of GI JOE?
+#27 answer right: General Hawk
+#27 answer wrong1: Beach Head
+#27 answer wrong2: Duke
+#27 answer wrong3: Wild Bill
+
+#28 question: Where did general Custer have his last stand?
+#28 answer right: Battle of Little Big Horn
+#28 answer wrong1: Battle of lost creek
+#28 answer wrong2: Battle of the Big Horn gully.
+#28 answer wrong3: The alamo.
+
+#29 question: What was the first city to be nuked in World War II?
+#29 answer right: Heroshima
+#29 answer wrong1: Nagasaki
+#29 answer wrong2: Yakota
+#29 answer wrong3: Tokyio
+
+#30 question: What is another name for the north star?
+#30 answer right: Polaris
+#30 answer wrong1: Alpha Centari
+#30 answer wrong2: Orion
+#30 answer wrong3: Jupiter
+
+#31 question: What is the largest animal in the world?
+#31 answer right: Blue Whale
+#31 answer wrong1: Elephant
+#31 answer wrong2: Giraffe
+#31 answer wrong3: Orca
+
+#32 question: What did serial killer Charles Manson carve into his head when he got bored with the 'X' ?
+#32 answer right: the Swastika
+#32 answer wrong1: 666
+#32 answer wrong2: upsidedown cross
+#32 answer wrong3: an arrow
+
+#33 question: Which continent is divided into the most countries?
+#33 answer right: Africa
+#33 answer wrong1: Asia
+#33 answer wrong2: Europe
+#33 answer wrong3: North America
+ 
+#34 question: Who won the World Series of Baseball in 2004?
+#34 answer right: Boston Red Sox
+#34 answer wrong1: Seattle Mariners
+#34 answer wrong2: Yankees
+#34 answer wrong3: Dodgers
+
+#35 question: What brand name was on the world's first patented pneumatic tire?
+#35 answer right: Dunlop
+#35 answer wrong1: Firestone
+#35 answer wrong2: BF Goodrich
+#35 answer wrong3: Mickey Thomson
+
+#36 question: In the folk song 'My Darling Clementine', how did Clementine die?
+#36 answer right: She drowned
+#36 answer wrong1: She fell off a horse
+#36 answer wrong2: She slipped and fell off of a cliff
+#36 answer wrong3: She was shot
+
+#37 question: Who played the lead role of Aileen in the 2003 movie 'Monster'?
+#37 answer right: Charlize Theron
+#37 answer wrong1: Drew Berrymore
+#37 answer wrong2: Sharon Stone
+#37 answer wrong3: Angelina Jolie
+ 
+#38 question: What have you eaten if you've just consumed a 'deutoplasm'?
+#38 answer right: an egg yolk
+#38 answer wrong1: A fegetable that is grown underwater.
+#38 answer wrong2: a seed bearing plant.
+#38 answer wrong3: The lining of an amimal stomach.
+
+#39 question: Who directed the blockbuster Titanic?
+#39 answer right: James Cameron
+#39 answer wrong1: Leonardo DiCaprio
+#39 answer wrong2: John Rosenbaum
+#39 answer wrong3: Amy Murphy
+ 
+#40 question: What is the name of the park ranger in Yogi Bear cartoons?
+#40 answer right: Ranger John Smith
+#40 answer wrong1: Ranger Rick Jones
+#40 answer wrong2: Ranger Dave Thomas
+#40 answer wrong3: Ranger Joe Dirt
+
+#41 question: Where was the game of Chess invented?
+#41 answer right: India
+#41 answer wrong1: Russia
+#41 answer wrong2: United States
+#41 answer wrong3: England
+
+
+
